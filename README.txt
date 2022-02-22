@@ -1,2 +1,1 @@
-Hello Git and GitHub
-# codecademy_git
+# git_practice
